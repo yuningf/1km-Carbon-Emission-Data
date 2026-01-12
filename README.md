@@ -1,1 +1,2 @@
-# 1km-Carbon-Emission-Data
+# 1km Carbon Emission Data for the Beijing-Tianjin-Hebei Region and the Yangtze River Delta Constructed Using the SEE Model
+## This data focuses on the Beijing-Tianjin-Hebei region and the Yangtze River Delta region. By using population, GDP, and land use data to correspond to a three-dimensional socio-economic-environmental (S-E-E) framework, the model downscales 0.1° Global gRidded dAily CO2 Emission Dataset(GRACED) carbon emission data to a 1 km resolution, thereby achieving finer spatial detail in carbon emission mapping.
